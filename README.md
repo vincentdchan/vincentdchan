@@ -1,5 +1,5 @@
 # I am Vincent Chan
-I am a developing living in Shenzhen. I am interested in Compiler technology, Computer Graphics, Operating systems.
+I am a developer living in Shenzhen. I am interested in Compiler technology, Computer Graphics, Operating systems.
 
 ## Projects
 

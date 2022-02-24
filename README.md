@@ -3,10 +3,12 @@ I am a developer living in Shenzhen. I am interested in Compiler technology, Com
 
 ## Projects
 
-[Esreverse](https://diverse.space/esreverse/) is a reverse tool for Web.
-It can reverse async/await/generator syntaxes in minifed code.
+[LichenScirpt](https://github.com/lichenscript/lichenscript) is a lightweight language compiled to JavaScript/C. (2022)
 
-[Yesbuild](https://github.com/vincentdchan/yesbuild) is a scable and extensible build system for the Web ecosystem.
+[Esreverse](https://diverse.space/esreverse/) is a reverse tool for Web.
+It can reverse async/await/generator syntaxes in minifed code. (2021)
+
+[Yesbuild](https://github.com/vincentdchan/yesbuild) is a scable and extensible build system for the Web ecosystem. (2021)
 
 [Jetpack](https://github.com/vincentdchan/jetpack.js) is an extremely fast JavaScript bundler written in C++. It can be compiled into a binary without any dependencies. It's portable, fast, and solid.
 

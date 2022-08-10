@@ -32,4 +32,4 @@ I will keep writing on [Medium](https://okcdz.medium.com/) in English.
 I have [a blog in Chinese](https://diverse.space/).
 
 Sometimes I will share my view on Twitter.
-If you have any idea about my project, send an email to [okcdz@diverse.space](mailto:okcdz@diverse.space), or submit an issue.
+If you have any ideas about my project, send an email to [okcdz@diverse.space](mailto:okcdz@diverse.space), or submit an issue.

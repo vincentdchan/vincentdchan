@@ -1,14 +1,15 @@
 # I am Vincent Chan
+
 I am a developer living in Shenzhen. I am interested in Compiler technology, Computer Graphics, Operating systems.
 
 ## Projects
+
+Became a team member of [AppFlowy](https://github.com/AppFlowy-IO/). Developing editor. (2022)
 
 [LichenScirpt](https://github.com/lichenscript/lichenscript) is a lightweight language compiled to JavaScript/C. (2022)
 
 [Esreverse](https://diverse.space/esreverse/) is a reverse tool for Web.
 It can reverse async/await/generator syntaxes in minifed code. (2021)
-
-[Yesbuild](https://github.com/vincentdchan/yesbuild) is a scable and extensible build system for the Web ecosystem. (2021)
 
 [Jetpack](https://github.com/vincentdchan/jetpack.js) is an extremely fast JavaScript bundler written in C++. It can be compiled into a binary without any dependencies. It's portable, fast, and solid.
 
@@ -25,6 +26,7 @@ Sometimes, I will do some "hacking" on existing systems.
 Also, I participated GSoC in 2018. I wrote a [webpack plugin](https://github.com/vincentdchan/webpack-deep-scope-analysis-plugin) to help tree-shaking.
 
 ## Writing
+
 I will keep writing on [Medium](https://okcdz.medium.com/) in English.
 
 I have [a blog in Chinese](https://diverse.space/).

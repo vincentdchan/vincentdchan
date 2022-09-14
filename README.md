@@ -4,7 +4,9 @@ I am a developer living in Shenzhen. I am interested in Compiler technology, Com
 
 ## Projects
 
-Became a team member of [AppFlowy](https://github.com/AppFlowy-IO/). Developing editor. (2022)
+[CubyText](https://github.com/vincentdchan/CubyText/import) is an open-source knowledge management app. (2022)
+
+[Blocky editor](https://github.com/vincentdchan/blocky-editor) is an editor built with blocks. (2022)
 
 [LichenScirpt](https://github.com/lichenscript/lichenscript) is a lightweight language compiled to JavaScript/C. (2022)
 

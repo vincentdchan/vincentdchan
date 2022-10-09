@@ -2,6 +2,15 @@
 
 I am a developer living in Shenzhen. I am interested in Compiler technology, Computer Graphics, Operating systems.
 
+## Interests
+
+Play shaders on [shadertoy](https://www.shadertoy.com/user/vincentdchan).
+
+<p float="left">
+  <img src="./images/img1.png" width="265" />
+  <img src="./images/img2.png" width="240" />
+<p/>
+
 ## Projects
 
 [CubyText](https://github.com/vincentdchan/CubyText/import) is an open-source knowledge management app. (2022)
@@ -9,9 +18,6 @@ I am a developer living in Shenzhen. I am interested in Compiler technology, Com
 [Blocky editor](https://github.com/vincentdchan/blocky-editor) is an editor built with blocks. (2022)
 
 [LichenScirpt](https://github.com/lichenscript/lichenscript) is a lightweight language compiled to JavaScript/C. (2022)
-
-[Esreverse](https://diverse.space/esreverse/) is a reverse tool for Web.
-It can reverse async/await/generator syntaxes in minifed code. (2021)
 
 [Jetpack](https://github.com/vincentdchan/jetpack.js) is an extremely fast JavaScript bundler written in C++. It can be compiled into a binary without any dependencies. It's portable, fast, and solid.
 

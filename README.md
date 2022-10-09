@@ -7,7 +7,7 @@ I am a developer living in Shenzhen. I am interested in Compiler technology, Com
 Play shaders on [shadertoy](https://www.shadertoy.com/user/vincentdchan).
 
 <p float="left">
-  <img src="./images/img1.png" width="265" />
+  <img src="./images/img1.jpg" width="265" />
   <img src="./images/img2.png" width="240" />
 <p/>
 

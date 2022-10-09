@@ -1,10 +1,12 @@
 # I am Vincent Chan
 
-I am a developer living in Shenzhen. I am interested in Compiler technology, Computer Graphics, Operating systems.
+I am a frontend developer interested in compilers, computer graphics.
 
 ## Interests
 
-Play shaders on [shadertoy](https://www.shadertoy.com/user/vincentdchan).
+Play shaders on shadertoy([profile](https://www.shadertoy.com/user/vincentdchan)).
+
+My works:
 
 <p float="left">
   <img src="./images/img1.jpg" width="265" />

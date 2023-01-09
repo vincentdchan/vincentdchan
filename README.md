@@ -2,28 +2,23 @@
 
 I am a frontend developer interested in compilers, computer graphics.
 
-## Interests
-
-Play shaders on shadertoy([profile](https://www.shadertoy.com/user/vincentdchan)).
-
-My works:
-
-<p float="left">
-  <img src="./images/img1.jpg" width="265" />
-  <img src="./images/img2.png" width="240" />
-<p/>
+Co-founder: [doodleboard.pro](http://doodleboard.pro/)
 
 ## Projects
 
-[CubyText](https://github.com/vincentdchan/CubyText/import) is an open-source knowledge management app. (2022)
+### Active development
 
-[Blocky editor](https://github.com/vincentdchan/blocky-editor) is an editor built with blocks. (2022)
+- [Blocky editor](https://github.com/vincentdchan/blocky-editor) is an editor built with blocks.
 
-[LichenScirpt](https://github.com/lichenscript/lichenscript) is a lightweight language compiled to JavaScript/C. (2022)
+- [PoloDB](https://github.com/vincentdchan/PoloDB) is an embedded JSON-based database written in Rust. It's designed to be lightweight and safe. It supports query semantics like MongoDB and WAL transactions.
 
-[Jetpack](https://github.com/vincentdchan/jetpack.js) is an extremely fast JavaScript bundler written in C++. It can be compiled into a binary without any dependencies. It's portable, fast, and solid.
+### Experimental toys
 
-[PoloDB](https://github.com/vincentdchan/PoloDB) is an embedded JSON-based database written in Rust. It's designed to be lightweight and safe. It supports query semantics like MongoDB and WAL transactions.
+- [CubyText](https://github.com/vincentdchan/CubyText/import) is an open-source knowledge management app. (2022)
+
+- [LichenScirpt](https://github.com/lichenscript/lichenscript) is a lightweight language compiled to JavaScript/C. (2022)
+
+- [Jetpack](https://github.com/vincentdchan/jetpack.js) is an extremely fast JavaScript bundler written in C++. It can be compiled into a binary without any dependencies. It's portable, fast, and solid.
 
 Sometimes, I will do some "hacking" on existing systems.
 
@@ -34,6 +29,17 @@ Sometimes, I will do some "hacking" on existing systems.
 - I wrote a [Node.js extension](https://github.com/vincentdchan/node-xattr), which can help you manipulate xattr on macOS.
 
 Also, I participated GSoC in 2018. I wrote a [webpack plugin](https://github.com/vincentdchan/webpack-deep-scope-analysis-plugin) to help tree-shaking.
+
+### Interests
+
+Play shaders on shadertoy([profile](https://www.shadertoy.com/user/vincentdchan)).
+
+My works:
+
+<p float="left">
+  <img src="./images/img1.jpg" width="265" />
+  <img src="./images/img2.png" width="240" />
+<p/>
 
 ## Writing
 

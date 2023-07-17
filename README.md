@@ -1,24 +1,29 @@
 # I am Vincent Chan
 
-I am a frontend developer interested in compilers, computer graphics.
-
-Co-founder: [doodleboard.pro](http://doodleboard.pro/)
+I am a frontend developer, indie-maker.
 
 ## Projects
 
-### Active development
+## Products
 
-- [Blocky editor](https://github.com/vincentdchan/blocky-editor) is an editor built with blocks.
+- [**Terminal one**](https://www.terminalone.app/)(Creator): A blazingly fast, smart and and friendly terminal emulator for developers
 
-- [PoloDB](https://github.com/vincentdchan/PoloDB) is an embedded JSON-based database written in Rust. It's designed to be lightweight and safe. It supports query semantics like MongoDB and WAL transactions.
+- [**Doodleboard**](https://www.doodleboard.pro/)(Co-frounder): An all-in-one whiteboard with built-in doodle styles to help you easily organize, and present your ideas.
 
-### Experimental toys
 
-- [CubyText](https://github.com/vincentdchan/CubyText/import) is an open-source knowledge management app. (2022)
+### Libraries
 
-- [LichenScirpt](https://github.com/lichenscript/lichenscript) is a lightweight language compiled to JavaScript/C. (2022)
+- [**Blocky editor**](https://github.com/vincentdchan/blocky-editor) is an editor built with blocks.
 
-- [Jetpack](https://github.com/vincentdchan/jetpack.js) is an extremely fast JavaScript bundler written in C++. It can be compiled into a binary without any dependencies. It's portable, fast, and solid.
+- [**PoloDB**](https://github.com/vincentdchan/PoloDB) is an embedded JSON-based database written in Rust. It's designed to be lightweight and safe. It supports query semantics like MongoDB and WAL transactions.
+
+### Experimental POCs 
+
+- [**CubyText**](https://github.com/vincentdchan/CubyText/import) is an open-source knowledge management app. (2022)
+
+- [**LichenScirpt**](https://github.com/lichenscript/lichenscript) is a lightweight language compiled to JavaScript/C. (2022)
+
+- [**Jetpack**](https://github.com/vincentdchan/jetpack.js) is an extremely fast JavaScript bundler written in C++. It can be compiled into a binary without any dependencies. It's portable, fast, and solid.
 
 Sometimes, I will do some "hacking" on existing systems.
 

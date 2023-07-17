@@ -6,7 +6,7 @@ I am a frontend developer, indie-maker.
 
 ## Products
 
-- [**Terminal one**](https://www.terminalone.app/)(Creator): A blazingly fast, smart and and friendly terminal emulator for developers
+- [**Terminal One**](https://www.terminalone.app/)(Creator): A blazingly fast, smart and and friendly terminal emulator for developers
 
 - [**Doodleboard**](https://www.doodleboard.pro/)(Co-frounder): An all-in-one whiteboard with built-in doodle styles to help you easily organize, and present your ideas.
 

@@ -1,21 +1,20 @@
 # I am Vincent Chan
 
-I am a frontend developer, indie-maker.
+I am a frontend developer, indie-maker. Check my [profile](https://www.diverse.space/).
 
 ## Projects
 
-## Products
-
-- [**Terminal One**](https://www.terminalone.app/)(Creator): A blazingly fast, smart and and friendly terminal emulator for developers
-
-- [**Doodleboard**](https://www.doodleboard.pro/)(Co-frounder): An all-in-one whiteboard with built-in doodle styles to help you easily organize, and present your ideas.
-
-
 ### Libraries
 
-- [**Blocky editor**](https://github.com/vincentdchan/blocky-editor) is an editor built with blocks.
+- [**Quill Next**](https://github.com/vincentdchan/quill-next) is the next generation of Quill, a powerful text editor.
 
 - [**PoloDB**](https://github.com/vincentdchan/PoloDB) is an embedded JSON-based database written in Rust. It's designed to be lightweight and safe. It supports query semantics like MongoDB and WAL transactions.
+
+- [**Blocky editor(archived)**](https://github.com/vincentdchan/blocky-editor) is an editor built with blocks.
+
+### Products
+
+- [**Doodleboard**](https://www.doodleboard.pro/)(Co-frounder): An all-in-one whiteboard with built-in doodle styles to help you easily organize, and present your ideas.
 
 ### Experimental POCs 
 
@@ -24,6 +23,8 @@ I am a frontend developer, indie-maker.
 - [**LichenScirpt**](https://github.com/lichenscript/lichenscript) is a lightweight language compiled to JavaScript/C. (2022)
 
 - [**Jetpack**](https://github.com/vincentdchan/jetpack.js) is an extremely fast JavaScript bundler written in C++. It can be compiled into a binary without any dependencies. It's portable, fast, and solid.
+
+- [**Terminal One**](https://www.terminalone.app/): A blazingly fast, smart and and friendly terminal emulator for developers
 
 Sometimes, I will do some "hacking" on existing systems.
 

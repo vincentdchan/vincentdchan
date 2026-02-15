@@ -1,4 +1,4 @@
-# I am Vincent Chan
+# I am DZ Chen
 
 I am a frontend developer, indie-maker. Check my [profile](https://www.diverse.space/).
 
